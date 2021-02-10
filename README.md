@@ -1,5 +1,5 @@
 # Water-Management-System
-A device that monitors ad controls water consumption in public washrooms
+
 
 ## Introduction
 
@@ -9,5 +9,5 @@ The water management system monitors the water consumption of an individual and 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA2Mzg0NjVdfQ==
+eyJoaXN0b3J5IjpbOTQ0OTk1NDk2XX0=
 -->
